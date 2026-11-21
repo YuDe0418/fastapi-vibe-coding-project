@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+node_modules/
+dist/
+coverage/
+*.log
+
+# Local coursework notes
+/Prompt.md
